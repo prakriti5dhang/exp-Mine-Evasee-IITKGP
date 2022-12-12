@@ -1,3 +1,3 @@
 ## Objective
 
-Estimation of psychrometric properties of air relevant to climatic conditions of an environment and acquire skill for handling Assmann psychrometer.
+The objective of this experiment is to find out efficiency of an Evasee in terms of pressure recovery in a mine ventilation system.
